@@ -1,8 +1,8 @@
 #!/usr/bin/env fish
 sudo apt-get -qq -y install git
-git config --global user.name "Alan Vivona"
-git config --global user.email "alan.g.vivona@gmail.com"
-git config --global core.editor "vim"
+git config --global user.name "Sol Kuczala"
+git config --global user.email "sol.kuczala@gmail.com"
+git config --global core.editor "nano"
 
-mkdir -p ~/Desktop/code
+mkdir -p ~/Desktop/workspace
 cd

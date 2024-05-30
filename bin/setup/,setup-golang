@@ -1,2 +1,2 @@
 #!/usr/bin/env fish
-sudo apt-get -y -qq install golang
+# do it with curl/wget

@@ -7,4 +7,5 @@ and sudo apt-get -y install \
     vim \
     build-essential \
     expect \
-    fonts-hack-ttf
+    fonts-hack-ttf \
+    gdebi
